@@ -1,6 +1,6 @@
 # custom-gauge-practice
 
-This is my repo for practice to make custom gauge
+This is my repo for practice to make custom gauge using React Native 
 
 If this custom gauge is like what you are looking for, you can view my code at App.js
 
